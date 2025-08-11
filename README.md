@@ -1,0 +1,2 @@
+# MyNotesofJAVA
+Basic LINUX command 
