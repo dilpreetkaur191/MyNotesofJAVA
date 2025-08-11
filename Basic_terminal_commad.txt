@@ -1,0 +1,5 @@
+# Basic linux command
+# ls- listing files eg ls -al, ls -alh
+# mkdir -creating folder/directory eg. mkdir/tmp/test-folder
+# cd - change directory eg. cd/tmp
+# rmdir - delete empty folder eg. rmdir/tmp-folder
